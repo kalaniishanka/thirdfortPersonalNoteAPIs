@@ -13,6 +13,10 @@
 - Select the right project
 - Choose the Spring Boot Application file (search for @SpringBootApplication annotation)
 - Right Click on the file and Run as Java Application
+
+### Postman sample test cases
+(https://www.getpostman.com/collections/39965ecdac9a13b5cc58)
+
 # APIs
 ### Add a note
 -  API
